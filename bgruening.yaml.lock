@@ -356,11 +356,17 @@ tools:
   owner: bgruening
   revisions:
   - 384ed4cad819
+  - 9fae02363d19
   tool_panel_section_label: GIS Data Handling
 - name: 3dtrees_py3dtiles
   owner: bgruening
   revisions:
   - ecbb700489af
+  tool_panel_section_label: GIS Data Handling
+- name: 3dtrees_potree
+  owner: bgruening
+  revisions:
+  - bd474d8124e3
   tool_panel_section_label: GIS Data Handling
 - name: jbrowse2
   owner: fubar
@@ -1259,6 +1265,7 @@ tools:
   revisions:
   - 1aba57a5a716
   - 28e902e3d8d6
+  - 99898a312165
   tool_panel_section_label: Machine Learning
 - name: black_forest_labs_flux
   owner: bgruening
