@@ -321,6 +321,7 @@ tools:
 - name: 3dtrees_segmentanytree
   owner: bgruening
   revisions:
+  - 369757ee56e4
   - 6f80b2dfb7d4
   tool_panel_section_label: GIS Data Handling
 - name: 3dtrees_detailview
