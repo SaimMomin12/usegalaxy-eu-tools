@@ -2689,6 +2689,30 @@ tools:
   - name: data_manager_kaiju
     owner: iuc
 
+  - name: mgnify_pipelines_toolkit_rev_comp_se_primers
+    owner: iuc
+    tool_panel_section_label: Metagenomic Analysis
+
+  - name: mgnify_pipelines_toolkit_primer_val_classification
+    owner: iuc
+    tool_panel_section_label: Metagenomic Analysis
+
+  - name: mgnify_pipelines_toolkit_permute_primers
+    owner: iuc
+    tool_panel_section_label: Metagenomic Analysis
+
+  - name: mgnify_pipelines_toolkit_mapseq_to_asv_table
+    owner: iuc
+    tool_panel_section_label: Metagenomic Analysis
+
+  - name: mgnify_pipelines_toolkit_make_asv_count_table
+    owner: iuc
+    tool_panel_section_label: Metagenomic Analysis
+
+  - name: mgnify_pipelines_toolkit_classify_var_regions
+    owner: iuc
+    tool_panel_section_label: Metagenomic Analysis
+
   - name: mothur_taxonomy_to_krona
     owner: iuc
     tool_panel_section_label: Metagenomic Analysis
